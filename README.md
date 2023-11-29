@@ -3,7 +3,7 @@
 This is plugin has been created for Visual Studio Code to append the Webstorm Darcula Dark color theme to IDE
 
 ## Preview
-![Preview](https://github.com/zzzoryn/webstorm-darkula-dark-theme-vscode/blob/master/view.png)
+![Preview](https://cdn.jsdelivr.net/gh/zzzoryn/webstorm-darkula-dark-theme-vscode@master/view.png)
 
 ### Licens
 MIT
