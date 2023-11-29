@@ -7,9 +7,17 @@
   "license": "MIT",
   "icon": "view.png",
   "repository": {
-    "url": "https://github.com/xr0master/vscode-intellij-darcula-theme",
+    "url": "https://github.com/zzzoryn/webstorm-darkula-dark-theme-vscode",
     "type": "git"
   },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "webstorm",
+    "intellij idea",
+    "darkula",
+    "darkula dark"
+  ],
   "engines": {
     "vscode": "^1.27.0"
   },
